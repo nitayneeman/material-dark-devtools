@@ -2336,7 +2336,7 @@ label.checkbox,
   font-style: italic;
 }
 .cm-js-def {
-  color: #49a6d2 !important;
+  color: #b3e5fc !important;
 }
 .cm-js-error {
   background: #9D1E15 !important;
@@ -2349,7 +2349,7 @@ label.checkbox,
   color: #aeaeae !important;
 }
 .cm-js-keyword {
-  color: #8b6ccf !important;
+  color: #03a9f4 !important;
   font-style: italic;
 }
 .cm-js-link {
@@ -2364,16 +2364,16 @@ label.checkbox,
   color: #89f5a2 !important;
 }
 .cm-js-operator {
-  color: #cdb943 !important;
+  color: #448aff !important;
 }
 .cm-js-property {
-  color: #cdb943 !important;
+  color: #448aff !important;
 }
 .cm-js-string {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 .cm-js-string-2 {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 .cm-js-tag {
   color: #49a6d2 !important;
@@ -2399,17 +2399,17 @@ label.checkbox,
   color: #cccccc !important;
 }
 .cm-string {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 .cm-keyword {
-  color: #8b6ccf !important;
+  color: #03a9f4 !important;
   font-style: italic;
 }
 .cm-number {
   color: #89f5a2 !important;
 }
 .cm-operator {
-  color: #cdb943 !important;
+  color: #448aff !important;
 }
 .cm-error {
   background: #9D1E15 !important;
@@ -2832,7 +2832,7 @@ body .inspector-view-toolbar.status-bar::shadow .status-bar-item {
   color: #4e87bf !important;
 }
 body /deep/ .cm-js-keyword {
-  color: #8b6ccf !important;
+  color: #03a9f4 !important;
   font-style: italic !important;
 }
 body /deep/ .cm-js-number {
@@ -2842,10 +2842,10 @@ body /deep/ .cm-js-comment {
   color: #676767 !important;
 }
 body /deep/ .cm-js-string {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 body /deep/ .cm-js-string-2 {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 body /deep/ .cm-css-keyword {
   color: #546e7a !important;
@@ -2980,7 +2980,7 @@ body ::shadow .cm-js-comment {
   font-style: italic;
 }
 body ::shadow .cm-js-def {
-  color: #49a6d2 !important;
+  color: #b3e5fc !important;
 }
 body ::shadow .cm-js-error {
   background: #9D1E15 !important;
@@ -2993,7 +2993,7 @@ body ::shadow .cm-js-hr {
   color: #aeaeae !important;
 }
 body ::shadow .cm-js-keyword {
-  color: #8b6ccf !important;
+  color: #03a9f4 !important;
   font-style: italic;
 }
 body ::shadow .cm-js-link {
@@ -3006,16 +3006,16 @@ body ::shadow .cm-js-number {
   color: #89f5a2 !important;
 }
 body ::shadow .cm-js-operator {
-  color: #cdb943 !important;
+  color: #448aff !important;
 }
 body ::shadow .cm-js-property {
-  color: #cdb943 !important;
+  color: #448aff !important;
 }
 body ::shadow .cm-js-string {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 body ::shadow .cm-js-string-2 {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 body ::shadow .cm-js-tag {
   color: #49a6d2 !important;
@@ -3041,17 +3041,17 @@ body ::shadow .cm-variable {
   color: #cccccc !important;
 }
 body ::shadow .cm-string {
-  color: #f07b3c !important;
+  color: #8f8f8f !important;
 }
 body ::shadow .cm-keyword {
-  color: #8b6ccf !important;
+  color: #03a9f4 !important;
   font-style: italic;
 }
 body ::shadow .cm-number {
   color: #89f5a2 !important;
 }
 body ::shadow .cm-operator {
-  color: #cdb943 !important;
+  color: #448aff !important;
 }
 body ::shadow .cm-error {
   background: #9D1E15 !important;
