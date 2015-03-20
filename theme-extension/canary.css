@@ -226,8 +226,8 @@ span.CodeMirror-selectedtext {
   background: #3b3b3b !important;
 }
 .CodeMirror-code .CodeMirror-matchingbracket {
-  color: #15ca1a !important;
-  text-shadow: 0 0 3px #15ca1a !important;
+  color: #0091bf !important;
+  text-shadow: 0 0 3px #0091bf !important;
   border-bottom: none !important;
   font-weight: 800 !important;
 }
@@ -3242,8 +3242,8 @@ body ::shadow span.CodeMirror-selectedtext {
   background: #3b3b3b !important;
 }
 body ::shadow .CodeMirror-code .CodeMirror-matchingbracket {
-  color: #15ca1a !important;
-  text-shadow: 0 0 3px #15ca1a !important;
+  color: #0091bf !important;
+  text-shadow: 0 0 3px #0091bf !important;
   border-bottom: none !important;
   font-weight: 800 !important;
 }
