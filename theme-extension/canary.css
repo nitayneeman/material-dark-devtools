@@ -1985,35 +1985,16 @@ li.breakpoint-hit .breakpoint-hit-marker {
   height: 12px !important;
   background-color: #212121 !important;
 }
-::-webkit-scrollbar-track:horizontal,
-.custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,
-.custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,
-.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,
-.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal {
-  -webkit-box-shadow: inset 1px 5px 6px rgba(0, 0, 0, 0.3) !important;
-}
-::-webkit-scrollbar-track:vertical,
-.custom-popup-horizontal-scroll ::-webkit-scrollbar-track:vertical,
-.custom-popup-vertical-scroll ::-webkit-scrollbar-track:vertical,
-.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:vertical,
-.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:vertical {
-  -webkit-box-shadow: inset 4px 1px 8px 1px rgba(0, 0, 0, 0.3) !important;
-}
-::-webkit-scrollbar-corner,
-.CodeMirror-scrollbar-filler,
-.CodeMirror-gutter-filler {
-  -webkit-box-shadow: inset 1px 5px 6px rgba(0, 0, 0, 0.3) !important;
-}
 ::-webkit-scrollbar-thumb {
   border-radius: 5x !important;
-  background-color: #3b3b3b !important;
-  border: 1px solid #080808 !important;
+  background-color: #353535 !important;
+  border: 1px solid #2d2d2d !important;
 }
 ::-webkit-scrollbar-thumb:horizontal {
-  -webkit-box-shadow: inset 0 7px 1px -5px rgba(255, 255, 255, 0.3) !important;
+  -webkit-box-shadow: inset 0 2px 1px -2px rgba(255, 255, 255, 0.3) !important;
 }
 ::-webkit-scrollbar-thumb:vertical {
-  -webkit-box-shadow: inset 3px 0 5px 0 rgba(255, 255, 255, 0.3) !important;
+  -webkit-box-shadow: inset 0px 0 0px 0 rgba(255, 255, 255, 0.3) !important;
 }
 /*Popover scrollbar overrides */
 .custom-popup-horizontal-scroll ::-webkit-scrollbar-track,
@@ -2027,10 +2008,10 @@ li.breakpoint-hit .breakpoint-hit-marker {
   -webkit-border-image: none !important;
 }
 .custom-popup-vertical-scroll ::-webkit-scrollbar-track-piece:vertical {
-  -webkit-box-shadow: inset 4px 1px 8px 1px rgba(0, 0, 0, 0.3) !important;
+  -webkit-box-shadow: inset 0 2px 1px -2px rgba(255, 255, 255, 0.3) !important;
 }
 .custom-popup-horizontal-scroll ::-webkit-scrollbar-track-piece:horizontal {
-  -webkit-box-shadow: inset 1px 5px 6px rgba(0, 0, 0, 0.3) !important;
+  -webkit-box-shadow: inset 0 2px 1px -2px rgba(255, 255, 255, 0.3) !important;
 }
 .custom-popup-horizontal-scroll ::-webkit-scrollbar-thumb:horizontal:active,
 .custom-popup-horizontal-scroll ::-webkit-scrollbar-thumb:horizontal:hover,
@@ -3376,8 +3357,8 @@ body ::shadow .CodeMirror-gutter-filler {
 }
 body ::shadow ::-webkit-scrollbar-thumb {
   border-radius: 5x !important;
-  background-color: #3b3b3b !important;
-  border: 1px solid #080808 !important;
+  background-color: #353535 !important;
+  border: 1px solid #2d2d2d !important;
 }
 body ::shadow ::-webkit-scrollbar-thumb:horizontal {
   -webkit-box-shadow: inset 0 7px 1px -5px rgba(255, 255, 255, 0.3) !important;
