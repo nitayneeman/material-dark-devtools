@@ -1,6 +1,6 @@
 {
   "name": "material-dark-devtools",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Material Dark theme for Chrome Devtools that using the Zero-Base Template",
   "main": "Gruntfile.js",
   "repository": {
