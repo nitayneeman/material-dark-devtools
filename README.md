@@ -2,7 +2,7 @@
 ![Preview](https://github.com/nitayneeman/material-dark-devtools/blob/master/previews/first_preview.png)
 
 ## How to install
-  1. Download <a href="https://github.com/nitayneeman/material-dark-devtools/blob/master/dist/theme-extension.crx">theme extentiosion package</a>.
+  1. Download <a href="https://github.com/nitayneeman/material-dark-devtools/blob/master/dist/theme-extension.crx">theme extentiosion package</a> (Right click and 'Save link as..').
   2. Go to chrome://flags and make sure that 'Enable Developer Tools experiments' is enabled.
   3. If you did step 2, reopen your chrome.
   3. Open Chrome DevTools, and go to Settings.
