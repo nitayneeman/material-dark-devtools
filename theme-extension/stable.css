@@ -2231,7 +2231,7 @@ label.checkbox,
   color: #d9d9d9 !important;
 }
 .cm-js-atom {
-  color: #89f5a2 !important;
+  color: #cccccc !important;
 }
 .cm-js-attribute {
   color: #4e87bf !important;
@@ -2244,7 +2244,7 @@ label.checkbox,
   font-style: italic;
 }
 .cm-js-def {
-  color: #b3e5fc !important;
+  color: #cccccc !important;
 }
 .cm-js-error {
   background: #9D1E15 !important;
@@ -2257,7 +2257,7 @@ label.checkbox,
   color: #aeaeae !important;
 }
 .cm-js-keyword {
-  color: #03a9f4 !important;
+  color: #4e87bf !important;
   font-style: italic;
 }
 .cm-js-link {
@@ -2272,10 +2272,10 @@ label.checkbox,
   color: #89f5a2 !important;
 }
 .cm-js-operator {
-  color: #448aff !important;
+  color: #cccccc !important;
 }
 .cm-js-property {
-  color: #448aff !important;
+  color: #cccccc !important;
 }
 .cm-js-string {
   color: #8f8f8f !important;
@@ -2287,44 +2287,44 @@ label.checkbox,
   color: #49a6d2 !important;
 }
 .cm-js-variable {
-  color: #cccccc !important;
+  color: #b3e5fc !important;
 }
 .cm-js-variable-2 {
-  color: #cccccc !important;
+  color: #b3e5fc !important;
 }
 .source-frame-eval-expression {
   background-color: #373b41 !important;
   border-color: #5a616a !important;
 }
 .cm-atom {
-  color: #89f5a2 !important;
+  color: #cccccc !important;
 }
 .cm-comment {
   color: #676767 !important;
   font-style: italic;
 }
 .cm-variable {
-  color: #cccccc !important;
+  color: #b3e5fc !important;
 }
 .cm-string {
   color: #8f8f8f !important;
 }
 .cm-keyword {
-  color: #03a9f4 !important;
+  color: #4e87bf !important;
   font-style: italic;
 }
 .cm-number {
   color: #89f5a2 !important;
 }
 .cm-operator {
-  color: #448aff !important;
+  color: #cccccc !important;
 }
 .cm-error {
   background: #9D1E15 !important;
   color: #f8f8f8 !important;
 }
 .cm-s-default .cm-property {
-  color: #cccccc !important;
+  color: #b3e5fc !important;
 }
 /*--CSS--*/
 .cm-css-atom {
@@ -2483,7 +2483,7 @@ label.checkbox,
   color: #89f5a2 !important;
 }
 .console-formatted-boolean {
-  color: #89f5a2 !important;
+  color: #cccccc !important;
 }
 .console-object-preview {
   color: #dddddd !important;
