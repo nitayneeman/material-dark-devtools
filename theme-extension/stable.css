@@ -186,7 +186,7 @@
   border-left: 1px solid #ffffff !important;
 }
 .cm-error {
-  background: #9d1e15 !important;
+  background: #9d2c3b !important;
   border-radius: 2px !important;
   color: #eee !important;
 }
@@ -208,8 +208,8 @@ span.CodeMirror-selectedtext {
   font-weight: 800 !important;
 }
 .CodeMirror-code .CodeMirror-nonmatchingbracket {
-  color: #db0404 !important;
-  text-shadow: 0 0 3px #db0404 !important;
+  color: #9d2c3b !important;
+  text-shadow: 0 0 3px #9d2c3b !important;
   border-bottom: none !important;
   font-weight: 800 !important;
 }
