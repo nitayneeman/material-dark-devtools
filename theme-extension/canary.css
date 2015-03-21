@@ -2546,28 +2546,28 @@ label.checkbox,
 }
 .console-formatted-object,
 .console-formatted-array {
-  color: #7c7c7c !important;
+  color: #cccccc !important;
 }
 .console-formatted-function {
-  color: #8b6ccf !important;
+  color: #4e87bf !important;
 }
 .console-formatted-number {
   color: #89f5a2 !important;
 }
 .console-formatted-boolean {
-  color: #cccccc !important;
+  color: #b3e5fc !important;
 }
 .console-object-preview {
   color: #dddddd !important;
 }
 .console-formatted-regexp {
-  color: #ff54e8 !important;
+  color: #4e87bf !important;
 }
 .console-formatted-string {
-  color: #ff8737 !important;
+  color: #8f8f8f !important;
 }
 .console-formatted-undefined {
-  color: #ad4e4e !important;
+  color: #f8f8f8 !important;
 }
 .json .title {
   color: #cccccc !important;
@@ -3179,28 +3179,28 @@ body ::shadow .console-formatted-object .name {
 }
 body ::shadow .console-formatted-object,
 body ::shadow .console-formatted-array {
-  color: #7c7c7c !important;
+  color: #cccccc !important;
 }
 body ::shadow .console-formatted-function {
-  color: #8b6ccf !important;
+  color: #4e87bf !important;
 }
 body ::shadow .console-formatted-number {
   color: #89f5a2 !important;
 }
 body ::shadow .console-formatted-boolean {
-  color: #cccccc !important;
+  color: #b3e5fc !important;
 }
 body ::shadow .console-object-preview {
   color: #dddddd !important;
 }
 body ::shadow .console-formatted-regexp {
-  color: #ff54e8 !important;
+  color: #4e87bf !important;
 }
 body ::shadow .console-formatted-string {
-  color: #ff8737 !important;
+  color: #8f8f8f !important;
 }
 body ::shadow .console-formatted-undefined {
-  color: #ad4e4e !important;
+  color: #f8f8f8 !important;
 }
 body ::shadow .json .title {
   color: #cccccc !important;
