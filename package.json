@@ -1,7 +1,7 @@
 {
   "name": "material-dark-devtools",
   "version": "0.1.0",
-  "description": "Material Dark theme for Chrome Devtools that using the Zero-Base Template",
+  "description": "A Chrome DevTools theme, which emphasizes materialism with dark colors",
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
