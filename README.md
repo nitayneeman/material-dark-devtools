@@ -1,6 +1,8 @@
 # Material Dark Theme
 ![Preview](https://github.com/nitayneeman/material-dark-devtools/blob/master/previews/first_preview.png)
 
+![Preview](https://github.com/nitayneeman/material-dark-devtools/blob/master/previews/second_preview.png)
+
 A Chrome DevTools theme, which emphasizes materialism with dark colors - based on Zero Base Template.
 
 ## How to install
