@@ -10,4 +10,4 @@ A Chrome DevTools theme, which emphasizes materialism with dark colors - based o
   2. If you did step 2, reopen your chrome.
   3. Open Chrome DevTools, and go to Settings.
   4. Open 'Experiments' tab and Allow custom UI themes.
-  5. Download and install <a href="https://chrome.google.com/webstore/detail/material-dark-devtools-th/bcblfajekgfjcehefnjokalkodjcekmh?utm_source=chrome-ntp-icon">theme extentiosion package</a>.
+  5. Download and install <a href="https://chrome.google.com/webstore/detail/material-dark-devtools-th/bcblfajekgfjcehefnjokalkodjcekmh?utm_source=chrome-ntp-icon">theme extension package</a>.
