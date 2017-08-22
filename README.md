@@ -1,4 +1,11 @@
 # Material Dark Theme
+
+## DEPRECATED
+This repository is not maintained anymore.
+
+Please check the built-in dark theme for Chrome devtools.
+
+
 ![Preview](https://github.com/nitayneeman/material-dark-devtools/blob/master/previews/first_preview.png)
 
 ![Preview](https://github.com/nitayneeman/material-dark-devtools/blob/master/previews/second_preview.png)
